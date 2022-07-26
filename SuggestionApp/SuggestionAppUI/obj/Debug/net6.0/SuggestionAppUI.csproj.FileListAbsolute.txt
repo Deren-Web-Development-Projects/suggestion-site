@@ -17,7 +17,6 @@ C:\Users\dboze\OneDrive\Documents\Local-Repo-Copies\sug-site\suggestion-site\Sug
 C:\Users\dboze\OneDrive\Documents\Local-Repo-Copies\sug-site\suggestion-site\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\dboze\OneDrive\Documents\Local-Repo-Copies\sug-site\suggestion-site\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\dboze\OneDrive\Documents\Local-Repo-Copies\sug-site\suggestion-site\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\dboze\OneDrive\Documents\Local-Repo-Copies\sug-site\suggestion-site\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\dboze\OneDrive\Documents\Local-Repo-Copies\sug-site\suggestion-site\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\scopedcss\bundle\SuggestionAppUI.styles.css
 C:\Users\dboze\OneDrive\Documents\Local-Repo-Copies\sug-site\suggestion-site\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\scopedcss\projectbundle\SuggestionAppUI.bundle.scp.css
 C:\Users\dboze\OneDrive\Documents\Local-Repo-Copies\sug-site\suggestion-site\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.dll
