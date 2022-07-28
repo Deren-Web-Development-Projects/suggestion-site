@@ -17,4 +17,8 @@
     <PackageReference Include="Microsoft.Identity.Web.UI" Version="1.25.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SuggestionAppLibrary\SuggestionAppLibrary.csproj" />
+  </ItemGroup>
+
 </Project>
